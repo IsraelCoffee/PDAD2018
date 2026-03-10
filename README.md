@@ -33,10 +33,14 @@ etc.
 ## Estrutura do projeto
 
 PDAD-2018-Paranoa-Raca-Sexo/
-├── PDAD2018.R          # Script principal (R)
+├── PDAD-2018-RA7.R     # Script principal (R)
+
 ├── README.md           # Este arquivo
+
 └── (dados)             # Não incluídos no repositório por questões de tamanho/privacidade
+
 ├── PDAD_2018.Moradores_33RAs.*
+
 └── PDAD_2018.Domicilios_33RAs.*
 
 

@@ -21,9 +21,8 @@ library(ggplot2) # Fazer uns grafícos maneiro
 
 # Diretorio --------------------------------------------------------------------
 
+setwd("C:\\Users\\seu caminho")
 getwd()
-setwd("C:\\Users\\VD11740\\Downloads\\PDAD\\2018")
-
 
 # Importando PDAD --------------------------------------------------------------
 
@@ -191,6 +190,7 @@ print(grafico2)
 # Opcional: remover todos os dados desnecessarios
 
 # rm(f, m, paranoa, xx, xy)
+
 
 
 

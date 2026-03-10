@@ -22,9 +22,9 @@ Dois gráficos de barras horizontais (um para cada sexo) mostrando a quantidade 
 Exemplo visual aproximado:
 
 **Masculino**  
-Branca    ██████████  1.234  
-Parda     ██████████████████  2.890  
-Preta     █████  456  
+Branca    ██████████  x
+Parda     ██████████████████  y
+Preta     █████  z
 etc.
 
 **Feminino**  

@@ -23,8 +23,11 @@ Exemplo visual aproximado:
 
 **Masculino**  
 Branca    ██████████  x
+
 Parda     ██████████████████  y
+
 Preta     █████  z
+
 etc.
 
 **Feminino**  

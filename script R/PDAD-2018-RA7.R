@@ -24,7 +24,7 @@ library(ggplot2)  # Criação de gráficos
 # Diretorio --------------------------------------------------------------------
 
 # Define o diretório onde estão os arquivos da PDAD 2018
-setwd("C:\\Users\\VD11740\\Downloads\\PDAD\\2018")
+setwd("C:\\seu caminho")
 
 # Mostra qual é o diretório de trabalho atual
 getwd()
@@ -214,3 +214,4 @@ print(grafico2)
 
 # Opcional: remover todos os dados desnecessarios
 # rm(f, m, paranoa, xx, xy)
+
